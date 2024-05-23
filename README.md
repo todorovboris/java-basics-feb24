@@ -1,6 +1,6 @@
 # Java Basics 2024
 Repository for all solutions from Java Basics course - Lab and Exercices at Software University.
-The following themes are:
+The following topics are:
 
 1. First steps in coding
 2. Conditional statements
