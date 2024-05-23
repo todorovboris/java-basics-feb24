@@ -1,5 +1,5 @@
 # Java Basics 2024
-Repository for all solutions from Java Basics Course - Lab and Exercices at Software University.
+Repository for all solutions from Java Basics course - Lab and Exercices at Software University.
 The following themes are:
 
 1. First steps in coding
