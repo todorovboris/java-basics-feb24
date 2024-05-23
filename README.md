@@ -10,4 +10,5 @@ The following topics are:
 6. Nested Loops
 
 
-https://softuni.bg/Certificates/Details/208425/d8065067
+
+[Programming Basics - February 2024 - Certificate (1).pdf](https://github.com/todorovboris/java-basics-feb24/files/15413997/Programming.Basics.-.February.2024.-.Certificate.1.pdf)
