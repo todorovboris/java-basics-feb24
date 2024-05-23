@@ -8,3 +8,6 @@ The following topics are:
 4. For Loop
 5. While Loop
 6. Nested Loops
+
+
+https://softuni.bg/Certificates/Details/208425/d8065067
